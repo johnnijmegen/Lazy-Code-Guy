@@ -1,0 +1,21 @@
+body::before {
+	background-color: #ffffff6c;
+}
+
+.btn-dark {
+	background-color: #d63939;
+	border: none;
+}
+
+.btn-dark:hover {
+	background-color: #b42b2b;
+}
+
+.btn-primary {
+	background-color: #d63939;
+	border: none;
+}
+
+.btn-primary:hover {
+	background-color: #b42b2b;
+}
